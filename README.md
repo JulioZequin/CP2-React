@@ -1,5 +1,15 @@
 # Checkpoint 2 — Consumo de API no React Native
 
+## 👥 Grupo
+
+<ul>
+    <li><strong>Italo Caliari Silva</strong> - RM 554758</li>
+    <li><strong>Júlio César Ruiz Zequin</strong> - RM 554676</li>
+    <li><strong>Vitor Montemor Ismael</strong> - RM 556027</li>
+    <li><strong>Pedro Henrique Muzel Santos</strong> - RM RM 555983</li>
+    <li><strong>Danilo Gronski Wendler</strong> - RM 556602</li>
+</ul>
+
 ## 🚀 Como rodar
 
 ```bash
@@ -48,11 +58,3 @@ src/
 - AsyncStorage (configurado via `@react-native-async-storage/async-storage`)
 
 ---
-
-## 📡 API
-
-`https://jsonplaceholder.typicode.com`
-
-## 👥 Grupo
-
-> Adicione os nomes dos integrantes aqui.
